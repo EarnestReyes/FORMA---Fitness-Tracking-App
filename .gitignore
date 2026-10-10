@@ -41,3 +41,10 @@ example
 # generated native folders
 /ios
 /android
+
+# Workspace-only offline npm cache
+.npm-cache/
+.test-build/
+.browser-test/
+.browser-test-error.log
+dist-native/
